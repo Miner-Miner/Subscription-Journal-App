@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858836690099",
+    "project_id": "subscription-based-journal-app",
+    "storage_bucket": "subscription-based-journal-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858836690099:android:d516ce699b81014f5d3cc6",
+        "android_client_info": {
+          "package_name": "com.example.sub_journal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDVOajSRT82-GJie5cgrgXJFT_p7_CNXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
